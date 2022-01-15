@@ -1,6 +1,6 @@
 ---
 title: Flashing different OSes on your PinePhone
-description: A how-to when in comes to flashing your PinePhone
+description: A tutorial for flashing your PinePhone
 updated: 2022-01-14
 ---
 
