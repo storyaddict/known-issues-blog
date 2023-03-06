@@ -1,9 +1,9 @@
 ---
 ---
 
-# Aaron's Blog
+# Known Issues (The Tech Blog)
 
-A place for my thoughts on things and also a review or two.
+Screaming into `/dev/null`
 
 {% assign posts = site.posts | sort: "date" | sort: "updated" | reverse %}
 

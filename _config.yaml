@@ -1,28 +1,25 @@
 # Site-wide generic info (overridable per-page)
-title: ahoneycutt.me
-description: Aaron Honeycutt's website
-author: Aaron Honeycutt
+title: Known Issues
+description: Nathaniel Warburton's tech website.
+author: Nathaniel Warburton
 theme-color: "#002e99"
 image: https://ahoneycutt.me/images/card.png
 
 # Site-wide hardcoded (non-overridable by pages)
-url: https://ahoneycutt.me
+url: storyaddict.github.io
 # baseurl: /
 made-in: Colorado
-birthday: '1992-12-31 00:08:00 -0600'
+birthday: '1992-01-25'
 
 # Site-wide social info
-donate: https://ahoneycutt.me/pay
-email: aaronhoneycutt@pm.me
-github_user: ahoneybun # user with no @
-gitlab_user: ahoneybun # user with no @
-gravatar: a112b4952ec7f583808683b2b289d2be # Gravatar md5 hash
-instagram: athoneycutt # user with no @
-pixelfed: "https://pixelfed.social/ahoneybun" # whole URL since it's federated
-mastodon: "https://mastodon.social/web/accounts/106886163803369357" # whole URL since it's federated
-steam: ahoneybun # user/alias, no @
-twitch: ahoneybunn
-twitter: "@fishfulpenguin" # user including @
+donate: 
+email: nathanielwarburton@protonmail.com
+github_user: storyaddict # user with no @
+gitlab_user: storyaddict # user with no @
+pixelfed: "https://pixelfed.social/i/web/profile/91616240531017728" # whole URL since it's federated
+mastodon: "https://mastodon.social/@warburtonstoryaddict" # whole URL since it's federated
+steam: turbwroan # user/alias, no @
+twitch: turbwroan
 
 # Settings
 permalink: /blog/:title/

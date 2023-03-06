@@ -4,9 +4,9 @@ title: Aaron Honeycutt
 
 <!-- ![Me](https://www.gravatar.com/avatar/{{ site.gravatar }}?s=256&d=blank){: .avatar width="128" height="128"} -->
 
-# Aaron Honeycutt
+# Nathaniel Warburton
 
-I'm a **Happiness Architect** working at [system76](https://system76.com/).
+I'm a highly evolved ape who runs on coffee and blogs (rants) about tech things.
 
 <section class="code card" markdown="1">
 ## Code & Collaboration
@@ -17,32 +17,26 @@ I'm a **Happiness Architect** working at [system76](https://system76.com/).
 
 </section>
 
-<section class="talks card" markdown="1">
-## Talks & Podcasts
+<section class="video essays" markdown="1">
+## Video Essays
 
-I sometimes appear on **podcasts** like Linux Unplugged to talk about my work.
-
-<a href="https://linuxunplugged.com/guests/aaronhoneycutt" class="read-more lup"><i class="fa fa-fw fa-microphone"></i>Listen on Linux Unplugged</a>
-
-<a href="https://www.linux4everyone.com/guests/aaron-honeycutt" class="read-more lup"><i class="fa fa-fw fa-microphone"></i>Listen on Linux 4 Everyone</a>
-</section>
+Coming soon...
 
 <section class="writing card" markdown="1">
 ## Writing & Social
 
-I **write things** on the internet about tech, OSes and what I'm up to. I usually share these things on **social media**.
+To see my less technical, more fictional writing samples, visit warburtonstoryaddict.blog
+
+Feel free to follow me on social media.
 
 <a href="/blog" class="read-more blog"><i class="fa fa-fw fa-rss"></i>Read posts on Blog</a>
 
 <a rel="me" href="{{ site.mastodon }}" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
 
-<a href="https://twitter.com/{{ site.twitter }}" class="read-more twitter"><i class="fab fa-fw fa-twitter"></i>See tweets</a>
-</section>
-
 <section class="photography card" markdown="1">
 ## Photography
 
-I take photos from time to time. 
+When/if I get the time to take up more photography, you can find it here:
 
 <a rel="me" href="{{ site.pixelfed }}" class="read-more pixelfed"><i class="fas fa-fw fa-camera-retro"></i>View photos on PixelFed</a>
 
@@ -51,14 +45,8 @@ I take photos from time to time.
 <section class="gaming card" markdown="1">
 ## Gaming
 
-I play **games** on PS5, Switch and Steam.
-
-<a href="http://psnprofiles.com/ahoneybun" class="read-more psn"><i class="fa fa-fw fa-trophy"></i>See PSN profile</a>
-
-<a href="/switch" class="read-more switch"><i class="fab fa-fw fa-nintendo-switch"></i>Add on Nintendo Switch</a>
+I play video games when I'm not writing.
 
 <a href="http://steamcommunity.com/id/{{ site.steam }}/" class="read-more steam"><i class="fab fa-fw fa-steam-square"></i>Add on Steam</a>
 
 </section>
-
-This website is hosted on [Linode](https://www.linode.com/). You can create your own Linode account using my [referral code](https://www.linode.com/?r=50012cb9448276b69b3d757fdf5aa3d4ad320064).

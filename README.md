@@ -1,8 +1,8 @@
-# ahoneycutt.me
+# Nathaniel Warburton's Tech Blog "Known Issues"
 
-Forked from Cassidy James' website.
+Forked from Aaron Honeycutt's website, which he in turn forked from Cassidy James' website.
 
-My personal website.
+My personal website for tech-related writing.
 
 ## Building
 

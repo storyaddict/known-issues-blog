@@ -1,19 +1,11 @@
 ---
-title: Welcome to my blog!
-description: I finally have a space on the Internet!
+title: Welcome!
+description: This is the home of soon-to-be notorious tech-blog, "known" issues.
 updated: 2021-08-29
 ---
 
-## What will be here
-
-- My personal thoughts and links to current projects or life events that are happening
-
-## What won't be here
-
-- Ads
-- Tracking
-- Comments (reach out over my socail media links)
+This site is going to be my place to document rants about current technologies, as well as document the struggles and triumphs I experience with same.
 
 ### Thanks 
 
-A special thanks to [Cassidy](https://cassidyjames.com/) for providing the [source to his website](https://github.com/cassidyjames/cassidyjames.github.io) since this website is forked from it.
+A special thanks to [Aaron Honeycutt](ahoneycutt.me) and [Cassidy](https://cassidyjames.com/) for providing the [the website source code this site is based on](https://github.com/cassidyjames/cassidyjames.github.io).
