@@ -2,11 +2,11 @@
 title: Known Issues
 description: Nathaniel Warburton's tech website.
 author: Nathaniel Warburton
-theme-color: "#002e99"
-image: https://ahoneycutt.me/images/card.png
+theme-color: "#430f7b"
+image:
 
 # Site-wide hardcoded (non-overridable by pages)
-url: storyaddict.github.io/known-issues-blog
+url: storyaddict.github.io/known-issues-blog/
 # baseurl: /
 made-in: Colorado
 birthday: '1992-01-25'
